@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/FreeClimb.cs
+    - Assets/FreeClimb.cs.meta
+    - Assets/New Terrain 1.asset
+    - Assets/New Terrain 1.asset.meta
+    - Assets/Scenes/testIA.meta
+    - Assets/Scenes/testIA.unity
+    - Assets/Scenes/testIA.unity.meta
+    - Assets/Scenes/testIA/NavMesh.asset
+    - Assets/Scenes/testIA/NavMesh.asset.meta
+    - Assets/Scripts/EnemyAiTutorial.cs
+    - Assets/Scripts/EnemyAiTutorial.cs.meta
+    - Assets/Scripts/PointInTime.cs
+    - Assets/Scripts/TimeBody.cs
+    - Assets/StarterAssets/ThirdPersonController/Character/Animations/Ledge_Idle_Together.anim
+    - Assets/StarterAssets/ThirdPersonController/Character/Animations/Ledge_Idle_Together.anim.meta
+    - Assets/StarterAssets/ThirdPersonController/Character/Animations/StarterAssetsThirdPerson.controller
+    - Assets/StarterAssets/ThirdPersonController/Character/Animations/climb_down.anim
+    - Assets/StarterAssets/ThirdPersonController/Character/Animations/climb_down.anim.meta
+    - Assets/StarterAssets/ThirdPersonController/Character/Animations/climb_up.anim
+    - Assets/StarterAssets/ThirdPersonController/Character/Animations/climb_up.anim.meta
+    - Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity
+    - Assets/grapplinHook.cs
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
